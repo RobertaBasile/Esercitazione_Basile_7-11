@@ -1,0 +1,22 @@
+3. TUTTE LE RISPOSTE
+4. La coerenza funzionale si riferisce alla capacità di un sistema o di un programma di mantenere un comportamento prevedibile e consistente quando vengono eseguite operazioni o funzioni.
+5.
+
+Che è una funzione che serve a ritornare  alla riga in cui e richiamata uno specifico valore 
+
+7. if
+8. Sono un'astrazione dei concetti del mondo reale. In Python, una classe è un modello per la creazione di oggetti.   Un oggetto è un'istanza di una classe, cioè una copia univoca della classe che ha le sue proprietà uniche.   Le classi sono definite usando la parola chiave class, seguita dal nome della classe.   Le classi possono contenere metodi e attributi.
+9. uguale
+11.
+Decoratori di funzione
+Overriding
+Astrazione delle classi
+Ereditarietà multipla
+12. Qual è la differenza tra una classe normale è una astratta
+
+La classe astratta non può essere istanziata e può avere metodi astratti
+14.
+Quali sono e cosa fanno le tre regole fondamentali dell'OOP ? e l'astrazione perchè è un discorso a sè?
+Incapsulamento:  Cosa fa: L'incapsulamento è il processo di nascondere i dettagli interni di un oggetto e di esporre solo ciò che è necessario per l'uso esterno. Questo viene fatto utilizzando modificatori di accesso come private e protected.  Perché è importante: Aiuta a proteggere i dati e a prevenire l'accesso non autorizzato o la modifica dei dati interni di un oggetto. Inoltre, rende il codice più modulare e facile da mantenere.  Ereditarietà:  Cosa fa: L'ereditarietà permette di creare una nuova classe che eredita attributi e metodi da una classe esistente. La nuova classe è chiamata classe derivata o sottoclasse, mentre la classe esistente è chiamata classe base.  Perché è importante: Promuove il riutilizzo del codice e facilita l'estensione delle funzionalità esistenti senza dover riscrivere il codice.  Polimorfismo:  Cosa fa: Il polimorfismo permette a oggetti di classi diverse di essere trattati come oggetti della stessa classe base. Questo è possibile grazie all'uso di metodi che possono essere sovrascritti nelle classi derivate.  Perché è importante: Consente di scrivere codice più flessibile e generico, che può funzionare con oggetti di diversi tipi.  L'Astrazione L'astrazione è un concetto fondamentale dell'OOP, ma è spesso considerato un discorso a sé stante perché riguarda la rappresentazione di concetti complessi in modo semplice e comprensibile. L'astrazione permette di definire le caratteristiche essenziali di un oggetto senza entrare nei dettagli implementativi.  Cosa fa: L'astrazione nasconde i dettagli complessi e mostra solo le funzionalità essenziali di un oggetto.  Perché è importante: Aiuta a ridurre la complessità del codice e a migliorare la leggibilità e la manutenibilità.
+15. 
+Il print sarà 3
