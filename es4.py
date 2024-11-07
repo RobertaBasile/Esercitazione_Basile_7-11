@@ -46,3 +46,18 @@ class App_Riparazioni:
 
 def main():
     # Creazione delle autofficine
+
+    # Creazione delle autofficine 
+    autofficina_auto = AutofficinaAuto() 
+    autofficina_moto = AutofficinaMoto() 
+    # Creazione dell'app di riparazioni 
+    app_riparazioni = App_Riparazioni() 
+    app_riparazioni.aggiungi_autofficina(autofficina_auto) 
+    app_riparazioni.aggiungi_autofficina(autofficina_moto) 
+    # Creazione dei veicoli auto = Auto("Fiat 500") 
+    moto = Moto("Ducati Monster") # Riparazione dei veicoli 
+    app_riparazioni.ripara_veicolo(auto) 
+    app_riparazioni.ripara_veicolo(moto) 
+    # Avvia il programma 
+    if __name__ == "__main__": 
+        main()
